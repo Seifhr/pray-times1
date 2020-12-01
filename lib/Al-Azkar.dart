@@ -177,9 +177,12 @@ class _FavoriteWidgetState extends State<FavoriteWidget> {
         //_favoriteCount += 1;
         _isFavorited = true;
       }
+      
     });
+    
   }
 
+  
 }
 
 
