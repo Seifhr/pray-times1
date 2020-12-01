@@ -98,5 +98,6 @@ Container _buildAlAzkar(String label) {
         color: Colors.black,
       ),
     ),
-  );
+  ); 
 }
+ 
